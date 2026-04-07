@@ -19,4 +19,4 @@ This Power BI dashboard analyzes student academic performance based on gender, s
 - Dashboard Screenshot
 
 ## 👩‍💻 Author
-Nivi – Aspiring Data Analyst
+Nivetha – Aspiring Data Analyst
